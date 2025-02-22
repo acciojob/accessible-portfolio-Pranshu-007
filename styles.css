@@ -1,2 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 0;
+}
 
-/* Your CSS Code here. */
+h1, h2 {
+    color: #333;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 15px;
+}
+
+img {
+    width: 150px;
+    height: auto;
+    border-radius: 50%;
+}
